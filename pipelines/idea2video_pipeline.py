@@ -242,4 +242,4 @@ class Idea2VideoPipeline:
             final_video = concatenate_videoclips(video_clips)
             final_video.write_videofile(final_video_path)
             print(f"☑️ Concatenated videos, saved to {final_video_path}.")
-        return final_video_path
+        return final_video_path_
