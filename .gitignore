@@ -12,4 +12,4 @@ wheels/
 # working directory
 .working_dir/
 .test/
-curl -LsSf https://astral.sh/uv/install.sh | less
+curl -LsSf https://astral.sh/uv/install.sh | less 
