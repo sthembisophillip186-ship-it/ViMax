@@ -33,3 +33,4 @@ class VideoGenerator(Protocol):
         reference_image_paths: List[str],
         **kwargs,
     ) -> VideoOutput: ...
+optimize
